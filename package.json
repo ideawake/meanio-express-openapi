@@ -1,0 +1,14 @@
+{
+    "name": "meanio-openapi-express",
+    "version": "0.0.1",
+    "description": "Simple OpenApi 2.0 implementation for mean.io",
+    "author": {
+        "name": "Tim Elfelt"
+    },
+    "contributors": [],
+    "mean": "0.7.0",
+    "dependencies": {
+        "express-openapi": "1.0.0"
+    },
+    "license": "MIT"
+}
